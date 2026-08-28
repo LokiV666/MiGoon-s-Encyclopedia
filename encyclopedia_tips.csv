@@ -11,13 +11,13 @@
 "loading/tip8";"Be weary of players who have memorized the price of copper wire.";"";"";"Sei bedacht im Umgang mit Spielern die den Preis von Kupferdraht auswendig wissen.";"";"";"";"";"";"";"";"";"";"";"";"";"";"";"";"";"";;
 "loading/tip9";"The best way to play this game is not at all, or drunk.";"";"";"Der beste Weg um dieses Spiel zu spielen ist gar nicht, oder betrunken.";"";"";"";"";"";"";"";"";"";"";"";"";"";"";"";"";"";;
 "loading/tip10";"Y’all better be good to your moms today. Says my mother...";"";"";"Kümmert Euch heute mal um Eure Mütter! Sagt meine Mama...";"";"";"";"";"";"";"";"";"";"";"";"";"";"";"";"";"";;
-"loading/tip11";"""We do not want our players buying their way to the top..."" - Gaijin Entertainment.";"";"";"""We do not want our players buying their way to the top..."" - Gaijin Entertainment.";"";"";"";"";"";"";"";"";"";"";"";"";"";"";"";"";"";;
+"loading/tip11";"""We do not want our players to buy their way to the top..."" - Gaijin Entertainment.";"";"";"""We do not want our players buying their way to the top..."" - Gaijin Entertainment.";"";"";"";"";"";"";"";"";"";"";"";"";"";"";"";"";"";;
 "loading/tip12";"If a player is worse than you, they're a shitter. If a player is as good as you, they're average. If they're better, they're cheating. No exceptions.";"";"";"Ist ein Spieler schlechter als Du dann ist er beschissen. Ist ein Spieler Dir ebenbürtig dann ist er durchschnittlich. Ist er besser dann bescheisst er. Keine Ausnahmen.  ";"";"";"";"";"";"";"";"";"";"";"";"";"";"";"";"";"";;
 "loading/tip13";"25 years in this world, and playing War Thunder alone on a friday night?.";"";"";"25 Jahre auf dieser Erde, und Sie spielen War Thunder allein an einem Freitagabend?";"";"";"";"";"";"";"";"";"";"";"";"";"";"";"";"";"";;
 "loading/tip14";"Fuck you Jade (You know who you are).";"";"";"Fick dich Jade (Du weißt wer Du bist).";"";"";"";"";"";"";"";"";"";"";"";"";"";"";"";"";"";;
 "loading/tip15";"Want an update with unique vehicles? Don't worry, here's a premium F/A-18!";"";"";"Du willst einen Update mit einzigartigen Fahrzeugen? Keine Sorge, hier ist noch eine Premium F/A-18!";"";"";"";"";"";"";"";"";"";"";"";"";"";"";"";"";"";;
 "loading/tip16";"Being drunk has the surprising effect of making this game more fun!";"";"";"Betrunken sein hat überraschenderweise den Effekt das Spiel mehr Spaß machen zu lassen!";"";"";"";"";"";"";"";"";"";"";"";"";"";"";"";"";"";;
-"loading/tip17";"Happy Birthday! Oh, it's not yours? I'm sure it's someone's today.";"";"";"Herzlichen Glückwunsch zum Geburtstag! Oh, er ist nicht deiner? Ich bin sicher, jemand anderes hat heute Geburtstag.";"";"";"";"";"";"";"";"";"";"";"";"";"";"";"";"";"";;
+"loading/tip17";"Happy Birthday! Oh, it's not yours? I'm sure it's someone's today.";"";"";"";"";"";"";"";"";"";"";"";"";"";"";"";"";"";"";"";"";;
 "loading/aircraft/newbie/tip0";"You can quickly reduce your airspeed by crashing your aircraft into the ground.";"";"";"Du kannst rapide Geschwindigkeit drosseln indem Du Deinen Flieger abstürzen lässt.";"";"";"";"";"";"";"";"";"";"";"";"";"";"";"";"";"";;
 "loading/aircraft/tip1";"The Kvochur Bell is a great way to lose a dogfight.";"";"";"Die Kvochur Bell ist ein guter Weg einen Luftkampf zu verlieren.";"";"";"";"";"";"";"";"";"";"";"";"";"";"";"";"";"";;
 "loading/aircraft/tip2";"Cake is cake";"";"";"Kuchen ist Gebäck.";"";"";"";"";"";"";"";"";"";"";"";"";"";"";"";"";"";;
@@ -25,8 +25,8 @@
 "loading/aircraft/newbie/tip4";"Don't think, just do.";"";"";"Nicht nachdenken, einfach machen.";"";"";"";"";"";"";"";"";"";"";"";"";"";"";"";"";"";;
 "loading/aircraft/newbie/tip5";"""W larps"" - Neon Uni.";"";"";"""W larps"" – Neon Uni";"";"";"";"";"";"";"";"";"";"";"";"";"";"";"";"";"";;
 "loading/aircraft/newbie/tip6";"Struggling? Try uninstalling.";"";"";"Schwierigkeiten? Versuche es doch mal mit Deinstallieren.";"";"";"";"";"";"";"";"";"";"";"";"";"";"";"";"";"";;
-"loading/aircraft/newbie/tip7";"The lion dogfights the F-16 in a tornado.";"";"";"Der Löwe dogfightet immer die F-16 im Tornado.";"";"";"";"";"";"";"";"";"";"";"";"";"";"";"";"";"";;
-"loading/aircraft/newbie/tip8";"Always turnfight zeros.";"";"";"Wende immer mit Zeros.";"";"";"";"";"";"";"";"";"";"";"";"";"";"";"";"";"";;
+"loading/aircraft/newbie/tip7";"The lion dogfights the F-16 in a tornado.";"";"";"";"";"";"";"";"";"";"";"";"";"";"";"";"";"";"";"";"";;
+"loading/aircraft/newbie/tip8";"Always turnfight zeros.";"";"";"";"";"";"";"";"";"";"";"";"";"";"";"";"";"";"";"";"";;
 "loading/aircraft/newbie/tip9";"The humble tree retains the highest K/D in all of War Thunder, with the sole exception of the Earth of course.";"";"";"Der bescheidene Baum hat die höchste K/D in ganz War Thunder, mit Ausnahme der Erde natürlich.";"";"";"";"";"";"";"";"";"";"";"";"";"";"";"";"";"";;
 "loading/aircraft/tip10";"The Lancaster had an impressive bomb load of 6356 kgs. Do you know what else had an impressive ""load""?";"";"";"Die Lancaster hatte eine beeindruckende Bombenladung von 6356 kg. Wissen Sie was auch eine beeindruckende ""Ladung"" hat?";"";"";"";"";"";"";"";"";"";"";"";"";"";"";"";"";"";;
 "loading/aircraft/newbie/tip11";"AIM-7M is the same as AIM-7M.";"";"";"AIM-7M ist das Gleiche wie AIM-7M.";"";"";"";"";"";"";"";"";"";"";"";"";"";"";"";"";"";;
@@ -35,7 +35,7 @@
 "loading/aircraft/newbie/tip14";"Flare all you want, nothing will outsmart good ole' boulet.";"";"";"Flare so viel wie do willst, nichts wird die gute alte Kugel austricksen.";"";"";"";"";"";"";"";"";"";"";"";"";"";"";"";"";"";;
 "loading/aircraft/newbie/tip15";"The lion can dogfight with anything that flies - and, with some difficulty, even things never meant to dogfight.";"";"";"Der Löwe kann mit allem was fliegen kann in Luftkampf verwickelt sein – sogar, wenn auch komplizierter, mit Sachen die nicht fürs Fliegen gebaut sind.  ";"";"";"";"";"";"";"";"";"";"";"";"";"";"";"";"";"";;
 "loading/aircraft/tip16";"104-0 is propaganda.";"";"";"104-0 ist Propaganda";"";"";"";"";"";"";"";"";"";"";"";"";"";"";"";"";"";;
-"loading/aircraft/newbie/tip17";"Dying to radar missiles? Just notch bro.";"";"";"Du stirbst ständig wegen Radarraketen? Notch doch einfach Bruder.";"";"";"";"";"";"";"";"";"";"";"";"";"";"";"";"";"";;
+"loading/aircraft/newbie/tip17";"Dying to radar missiles? Just notch bro.";"";"";"";"";"";"";"";"";"";"";"";"";"";"";"";"";"";"";"";"";;
 "loading/aircraft/tip18";"Sub to MiGan Fox-3's OnlyFans!";"";"";"Psst! MiGan Fox-3 hat einen OnlyFans account!";"";"";"";"";"";"";"";"";"";"";"";"";"";"";"";"";"";;
 "loading/aircraft/newbie/tip19";"There's a hole in your right wing!";"";"";"Da ist ein Loch in Deinem rechten Flügel!";"";"";"";"";"";"";"";"";"";"";"";"";"";"";"";"";"";;
 "//NOT SO SERIOUS TIPS";;;;;;;;;;;;;;;;;;;;;;;
@@ -88,7 +88,7 @@
 "loading/aircraft/tip68";"There’s a hoe in diarrhoea!";"";"";"There’s a hoe in diarrhoea!";"";"";"";"";"";"";"";"";"";"";"";"";"";"";"";"";"";;
 "loading/aircraft/tip69";"Gooner camos? Just shower dude.";"";"";"NSFW Camos? Geh endlich mal Duschen.";"";"";"";"";"";"";"";"";"";"";"";"";"";"";"";"";"";;
 "loading/aircraft/tip70";"""Incomprehensible screeching""";"";"";"Unverständliches Geschrei";"";"";"";"";"";"";"";"";"";"";"";"";"";"";"";"";"";;
-"loading/aircraft/tip71";"";"";"";"";"";"";"";"";"";"";"";"";"";"";"";"";"";"";"";"";"";;
+"loading/aircraft/tip71";"The Dildo of Consequences rarely arrives lubed.";"";"";"Der Konsequenzendildo kommt selten vorgefettet an.";"";"";"";"";"";"";"";"";"";"";"";"";"";"";"";"";"";;
 "loading/aircraft/tip72";"";"";"";"";"";"";"";"";"";"";"";"";"";"";"";"";"";"";"";"";"";;
 "loading/aircraft/tip73";"";"";"";"";"";"";"";"";"";"";"";"";"";"";"";"";"";"";"";"";"";;
 "loading/aircraft/tip74";"";"";"";"";"";"";"";"";"";"";"";"";"";"";"";"";"";"";"";"";"";;
@@ -101,7 +101,7 @@
 "loading/tank/newbie/tip2";"Always bring full ammo, it's better to bring more than not enough. We all love a good fireworks show.";"";"";"Immer mit voller Munition aufschlagen, es ist besser zuviel zu haben als zuwenig. Wir alle lieben ein schönes Feuerwerk.";"";"";"";"";"";"";"";"";"";"";"";"";"";"";"";"";"";;
 "loading/tank/tip3";"Bushes don't move.";"";"";"Büsche bewegen sich nicht.";"";"";"";"";"";"";"";"";"";"";"";"";"";"";"";"";"";;
 "loading/tank/newbie/tip4";"Don’t rely on German ground teammates. In fact, don't rely on any teammates at all.";"";"";"Verlass Dich nicht auf Deutsche Teammates. Wenn man es genau nimmt, verlass Dich am Besten auf gar keine Teammates";"";"";"";"";"";"";"";"";"";"";"";"";"";"";"";"";"";;
-"loading/tank/tip5";"Did you angle today?";"";"";"Hast du dich heute angewinkelt?";"";"";"";"";"";"";"";"";"";"";"";"";"";"";"";"";"";;
+"loading/tank/tip5";"Did you angle today?";"";"";"";"";"";"";"";"";"";"";"";"";"";"";"";"";"";"";"";"";;
 "loading/tank/newbie/tip6";"Remember, it's never your fault - it's your team that's shit.";"";"";"Vergiss nicht, es ist nie deine Schuld, dein Team ist nur Scheiße.";"";"";"";"";"";"";"";"";"";"";"";"";"";"";"";"";"";;
 "loading/tank/newbie/tip7";"Other player's skill making the game difficult? Get better, or quit. Either works.";"";"";"Die Fähigkeiten von anderen erschweren Dein Spiel? Werd besser oder gib auf. Funktioniert beides.";"";"";"";"";"";"";"";"";"";"";"";"";"";"";"";"";"";;
 "loading/tank/tip8";"Too much CAS? Lol skill issue git gud.";"";"";"Too much CAS? Lol skill issue git gud.";"";"";"";"";"";"";"";"";"";"";"";"";"";"";"";"";"";;
